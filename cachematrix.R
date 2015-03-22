@@ -1,4 +1,4 @@
-# Assigment 2 for R Programming Course
+# Assigment 2 for R Programming
 # Compute and cache a matrix inversion, assuming that input matrix is invertible. If inversion already cached, then skip calculation and use cached inversion.
 #     done in two steps: 1) function "makeCacheMatrix" to cache and retrieve the matrix inverse, and 2) function "cacheSolve" to compute the inverse if it does not exist, or retrieve existing inverse from makeCacheMatrix if it does.
 
